@@ -1,1 +1,1 @@
-# hui pezda jopa
+# contains test.sh script file
